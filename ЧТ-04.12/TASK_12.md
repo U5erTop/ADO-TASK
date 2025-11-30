@@ -1,7 +1,5 @@
 # Решение Задания 12: Сочетание Find(), Select() и DataView для комплексного поиска
 
-## Полный код решения
-
 ```csharp
 using System;
 using System.Collections.Generic;
