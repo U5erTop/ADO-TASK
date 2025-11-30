@@ -1,7 +1,5 @@
 # Решение Задания 7: Навигация по отношению многие-ко-многим в обе стороны
 
-## Полный код решения
-
 ```csharp
 using System;
 using System.Collections.Generic;
